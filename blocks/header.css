@@ -1,3 +1,7 @@
 .header {
   padding: 33px;
 }
+
+.header__logo-text {
+  color: #ffffff;
+}
