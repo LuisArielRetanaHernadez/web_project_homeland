@@ -13,3 +13,8 @@
 .nav__item {
   text-align: center;
 }
+
+.nav__link {
+  color: #000000;
+  text-decoration: none;
+}
