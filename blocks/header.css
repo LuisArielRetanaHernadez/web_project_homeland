@@ -3,5 +3,8 @@
 }
 
 .header__logo-text {
+  margin-top: 10px;
   color: #ffffff;
+  font-weight: bold;
+  text-transform: uppercase;
 }
