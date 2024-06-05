@@ -13,6 +13,13 @@
   -webkit-text-size-adjust: 100%; /* 2 */
 }
 
+/* Elimine el padding, margin y agrega un border-box a todos los elementos */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 /* Secciones
    ========================================================================== */
 
