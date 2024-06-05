@@ -1,0 +1,17 @@
+.lead {
+  text-align: center;
+}
+
+.lead__title {
+  font-size: 96px;
+  font-weight: 900;
+  line-height: 1.5;
+}
+
+.lead__subtitle {
+  font-size: 30px;
+}
+
+.lead__image {
+  width: 100%;
+}
