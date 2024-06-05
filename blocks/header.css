@@ -2,8 +2,18 @@
   padding: 33px;
 }
 
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .nav__list {
   list-style: none;
   display: flex;
   gap: 10px;
+}
+
+.nav__item {
+  text-align: center;
 }
