@@ -32,3 +32,7 @@
   width: 100%;
   object-fit: cover;
 }
+
+.lead__image-filter-gray {
+  filter: grayscale(100%);
+}
