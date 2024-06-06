@@ -3,7 +3,7 @@
 }
 
 .lead__title {
-  width: 60%;
+  width: 720px;
   max-width: max-content;
   margin: auto;
   margin-top: 40px;
@@ -42,7 +42,9 @@
 
 @media screen and (max-width: 780px) {
   .lead__title {
+    width: 530px;
     text-align: center;
     font-size: 75px;
+    background-color: red;
   }
 }
