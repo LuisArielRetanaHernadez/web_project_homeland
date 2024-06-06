@@ -33,6 +33,6 @@
   object-fit: cover;
 }
 
-.lead__image-filter-gray {
+.lead__image_filter_gray {
   filter: grayscale(100%);
 }
