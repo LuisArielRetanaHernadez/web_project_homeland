@@ -37,3 +37,12 @@
 .lead__image_filter_gray {
   filter: grayscale(100%);
 }
+
+/* 780px */
+
+@media screen and (max-width: 780px) {
+  .lead__title {
+    text-align: center;
+    font-size: 75px;
+  }
+}
