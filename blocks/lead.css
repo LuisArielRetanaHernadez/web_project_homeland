@@ -26,7 +26,8 @@
 }
 
 .lead__content-image {
-  width: 100%;
+  max-width: 100%;
+  margin: 0 148px;
 }
 
 .lead__image {
@@ -45,10 +46,5 @@
     width: 530px;
     text-align: center;
     font-size: 75px;
-    background-color: red;
-  }
-
-  .lead__subtitle {
-    background-color: blue;
   }
 }
