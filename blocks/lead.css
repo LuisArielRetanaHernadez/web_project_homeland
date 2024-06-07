@@ -47,6 +47,11 @@
     text-align: center;
     font-size: 75px;
   }
+
+  .lead__content-image {
+    width: 100vw;
+    transform: translateX(-41px);
+  }
 }
 
 /* 320px */
@@ -60,5 +65,9 @@
   .lead__subtitle {
     width: 288px;
     font-size: 16px;
+  }
+
+  .lead__content-image {
+    transform: translateX(-35px);
   }
 }
