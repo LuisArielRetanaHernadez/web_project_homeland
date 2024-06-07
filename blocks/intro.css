@@ -47,14 +47,16 @@
 
 @media screen and (max-width: 768px) {
   .intro__title {
+    width: 707px;
     font-size: 45px;
   }
 
-  .intro__cite-content {
+  .intro__cite {
+    width: 720px;
     font-size: 20px;
   }
 
-  .intro__cite-author {
-    font-size: 24px;
+  .intro__text {
+    width: 720px;
   }
 }
