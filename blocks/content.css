@@ -16,7 +16,7 @@
   margin: 0;
 }
 
-@media screen and (max-width: 780px) {
+@media screen and (max-width: 768px) {
   .content__seccion {
     padding: 0 24px;
   }
