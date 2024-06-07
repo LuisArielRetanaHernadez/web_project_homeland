@@ -1,5 +1,6 @@
 .lead {
   text-align: center;
+  overflow: visible;
 }
 
 .lead__title {
@@ -26,8 +27,7 @@
 }
 
 .lead__content-image {
-  max-width: 100%;
-  margin: 0 148px;
+  width: 100%;
 }
 
 .lead__image {
@@ -46,9 +46,5 @@
     width: 530px;
     text-align: center;
     font-size: 75px;
-  }
-
-  .lead__content-image {
-    margin: 0;
   }
 }
