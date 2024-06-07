@@ -6,6 +6,11 @@
   margin: 0 148px;
 }
 
+.content__seccion_full_width {
+  width: 100%;
+  margin: 0;
+}
+
 @media screen and (max-width: 780px) {
   .content__seccion {
     margin: 0 24px;
