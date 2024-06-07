@@ -60,3 +60,21 @@
     width: 720px;
   }
 }
+
+/* 320px */
+
+@media screen and (max-width: 320px) {
+  .intro__title {
+    width: 288px;
+    font-size: 35px;
+  }
+
+  .intro__cite {
+    width: 288px;
+    font-size: 24px;
+  }
+
+  .intro__text {
+    width: 288px;
+  }
+}
