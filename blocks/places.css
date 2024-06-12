@@ -42,6 +42,10 @@
   line-height: 1;
 }
 
+.places__about-author {
+  align-self: self-end;
+}
+
 .places__label-author {
   color: #aaaaaa;
   font-weight: 400;
