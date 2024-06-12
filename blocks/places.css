@@ -16,3 +16,7 @@
     "button descripcion";
   gap: 40px 48px;
 }
+
+.places__area-description {
+  grid-area: descripcion;
+}
