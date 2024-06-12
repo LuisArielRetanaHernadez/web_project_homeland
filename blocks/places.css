@@ -1,12 +1,10 @@
 .places {
-  background-color: red;
   display: grid;
   grid-template-columns: minmax(auto, 987px);
   justify-content: center;
 }
 
 .places__item {
-  background-color: blue;
   display: grid;
   grid-template-columns: 460px 1fr;
   grid-template-rows: auto 460px auto;
