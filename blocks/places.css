@@ -24,4 +24,9 @@
 .places__texts {
   color: #fff;
   font-size: 18px;
+  line-height: 1.4;
+}
+
+.places__text {
+  margin-bottom: 25px;
 }
