@@ -21,6 +21,13 @@
   grid-area: descripcion;
 }
 
+.places__title {
+  color: #fff;
+  font-size: 77px;
+  font-weight: 900;
+  line-height: 1;
+}
+
 .places__texts {
   color: #fff;
   font-size: 18px;
