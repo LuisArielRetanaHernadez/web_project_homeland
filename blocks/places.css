@@ -20,3 +20,8 @@
 .places__area-description {
   grid-area: descripcion;
 }
+
+.places__texts {
+  color: #fff;
+  font-size: 18px;
+}
