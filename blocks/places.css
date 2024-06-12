@@ -15,8 +15,24 @@
   gap: 40px 48px;
 }
 
+.places__area-title {
+  grid-area: title;
+}
+
+.places__area-author {
+  grid-area: author;
+}
+
+.places__area-image {
+  grid-area: image;
+}
+
 .places__area-description {
   grid-area: descripcion;
+}
+
+.places__area-button {
+  grid-area: button;
 }
 
 .places__title {
