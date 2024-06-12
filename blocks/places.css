@@ -28,6 +28,18 @@
   line-height: 1;
 }
 
+.places__label-author {
+  color: #aaaaaa;
+  font-weight: 400;
+  letter-spacing: 0.12em;
+  line-height: 1.8;
+}
+
+.places__author-name {
+  color: #fff;
+  font-size: 18px;
+}
+
 .places__texts {
   color: #fff;
   font-size: 18px;
