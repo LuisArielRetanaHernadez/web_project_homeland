@@ -105,4 +105,16 @@
     grid-template-columns: 340px 1fr;
     grid-template-rows: auto 340px auto;
   }
+
+  .places__title {
+    font-size: 42px;
+  }
+
+  .places__label-author {
+    font-size: 14px;
+  }
+
+  .places__author-name {
+    font-size: 18px;
+  }
 }
