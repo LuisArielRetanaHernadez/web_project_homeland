@@ -57,7 +57,7 @@
   }
 
   .intro__text {
-    width: 720px;
+    max-width: 720px;
   }
 }
 
