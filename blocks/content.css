@@ -21,15 +21,12 @@
   margin: auto;
 }
 
-/* @media screen and (max-width: 768px) {
-  .content__seccion {
-    margin: 24px;
-  }
-
+@media screen and (max-width: 768px) {
   .content__lead-content-image {
     margin: 0;
+    padding: 0;
   }
-} */
+}
 
 @media screen and (max-width: 320px) {
   .content__seccion {
