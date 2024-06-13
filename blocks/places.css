@@ -99,3 +99,10 @@
     rgba(0, 58, 123, 0.25) 99.98%
   );
 }
+
+@media screen and (max-width: 768px) {
+  .places__item {
+    grid-template-columns: 340px 1fr;
+    grid-template-rows: auto 340px auto;
+  }
+}
