@@ -7,10 +7,13 @@
 .content__seccion {
   margin: auto;
   box-sizing: border-box;
+  padding: 0 24px;
 }
 
 .content__lead-content-image {
   margin: auto;
+  padding: 0 24px;
+  box-sizing: border-box;
 }
 
 .content__seccion_full_width {
@@ -18,7 +21,7 @@
   margin: auto;
 }
 
-@media screen and (max-width: 768px) {
+/* @media screen and (max-width: 768px) {
   .content__seccion {
     margin: 24px;
   }
@@ -26,7 +29,7 @@
   .content__lead-content-image {
     margin: 0;
   }
-}
+} */
 
 @media screen and (max-width: 320px) {
   .content__seccion {
