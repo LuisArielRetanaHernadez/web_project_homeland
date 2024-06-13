@@ -34,7 +34,8 @@
     padding: 16px;
   }
 
-  .content__places-conent-image {
+  .content__places-conent-image,
+  .content__places {
     padding: 0;
   }
 }
