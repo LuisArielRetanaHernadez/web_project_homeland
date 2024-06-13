@@ -137,4 +137,16 @@
     grid-template-rows: auto 240px auto;
     column-gap: 20px;
   }
+
+  .places__title {
+    font-size: 32px;
+  }
+
+  .places__label-author {
+    font-size: 12px;
+  }
+
+  .places__button {
+    font-size: 14px;
+  }
 }
