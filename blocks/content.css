@@ -15,21 +15,21 @@
 
 .content__seccion_full_width {
   width: 100%;
-  margin: 0;
+  margin: auto;
 }
 
 @media screen and (max-width: 768px) {
   .content__seccion {
-    padding: 0 24px;
+    margin: 24px;
   }
 
   .content__lead-content-image {
-    padding: 0;
+    margin: 0;
   }
 }
 
 @media screen and (max-width: 320px) {
   .content__seccion {
-    padding: 0 16px;
+    margin: 16px;
   }
 }
