@@ -4,7 +4,8 @@
   flex-direction: column;
 }
 
-.content__seccion {
+.content__seccion,
+.content__places {
   margin: auto;
   box-sizing: border-box;
   padding: 0 24px;
@@ -16,7 +17,7 @@
   box-sizing: border-box;
 }
 
-.content__seccion_full_width {
+.content__places-conent-image .content__seccion_full_width {
   width: 100%;
   margin: auto;
 }
@@ -31,5 +32,9 @@
 @media screen and (max-width: 320px) {
   .content__seccion {
     padding: 16px;
+  }
+
+  .content__places-conent-image {
+    padding: 0;
   }
 }
