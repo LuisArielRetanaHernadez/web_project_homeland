@@ -117,4 +117,9 @@
   .places__author-name {
     font-size: 18px;
   }
+
+  .places__texts {
+    font-size: 16px;
+    line-height: 1.3;
+  }
 }
