@@ -150,3 +150,25 @@
     font-size: 14px;
   }
 }
+
+@media screen and (max-width: 500px) {
+  .places__item {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto auto;
+    grid-template-areas:
+      "title title"
+      "author author"
+      "image image"
+      "description descripcion"
+      "button button";
+    row-gap: 30px;
+    column-gap: 0;
+  }
+
+  .places__button {
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+  }
+}
