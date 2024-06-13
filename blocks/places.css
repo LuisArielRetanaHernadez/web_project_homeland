@@ -2,7 +2,6 @@
   padding-top: 92px;
   display: grid;
   grid-template-columns: minmax(auto, 987px);
-  justify-content: center;
   gap: 80px;
 }
 
