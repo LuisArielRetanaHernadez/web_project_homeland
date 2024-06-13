@@ -3,8 +3,8 @@
 }
 
 .intro__title {
-  width: 830px;
-  max-width: 100%;
+  width: 100%;
+  max-width: 830px;
   margin-top: 70px;
   font-size: 54px;
   font-weight: 900;
@@ -12,8 +12,8 @@
 }
 
 .intro__cite {
-  width: 738px;
-  max-width: 100%;
+  width: 100%;
+  max-width: 738px;
   margin-top: 30px;
 }
 
@@ -35,8 +35,8 @@
 }
 
 .intro__text {
-  width: 722px;
-  max-width: 100%;
+  width: 100%;
+  max-width: 722px;
   margin-top: 30px;
   margin-bottom: 30px;
   font-size: 16px;
@@ -47,12 +47,12 @@
 
 @media screen and (max-width: 768px) {
   .intro__title {
-    width: 707px;
+    max-width: 707px;
     font-size: 45px;
   }
 
   .intro__cite {
-    width: 720px;
+    max-width: 720px;
     font-size: 20px;
   }
 
@@ -65,16 +65,16 @@
 
 @media screen and (max-width: 320px) {
   .intro__title {
-    width: 288px;
+    max-width: 288px;
     font-size: 35px;
   }
 
   .intro__cite {
-    width: 288px;
+    max-width: 288px;
     font-size: 24px;
   }
 
   .intro__text {
-    width: 288px;
+    max-width: 288px;
   }
 }
