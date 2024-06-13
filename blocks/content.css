@@ -1,9 +1,11 @@
 .content {
   width: auto;
+  display: flex;
+  flex-direction: column;
 }
 
 .content__seccion {
-  padding: 0 148px;
+  margin: auto;
   box-sizing: border-box;
 }
 
